@@ -1,6 +1,3 @@
-from platform import android_ver
-
-
 class Student:
     def __init__(self, name, surname, gender):
         self.name = name
